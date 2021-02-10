@@ -44,3 +44,12 @@ aside {
     top: 520px;
     left: 160px;
 }
+
+img {
+    width: 180px;
+    float: left;
+}
+
+.thumbnails {
+    overflow: auto;
+}
